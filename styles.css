@@ -1,0 +1,34 @@
+/* Estilos generales */
+body {
+  background: linear-gradient(to right, #141e30, #243b55);
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: white;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Título pequeño */
+h6 {
+  font-size: 22px;
+  color: #ffcc00;
+  margin-bottom: 5px;
+}
+
+/* Subtítulo */
+h3 {
+  font-size: 26px;
+  color: #00e5ff;
+  margin-top: 0;
+}
+
+/* Párrafo */
+p {
+  font-style: italic;
+  color: #ddd;
+}
+
+/* Bonus: efecto hover */
+p:hover {
+  color: #fff;
+}
